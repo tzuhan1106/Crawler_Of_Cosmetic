@@ -1,23 +1,28 @@
 import requests
 from bs4 import BeautifulSoup
-product_key=['productName']
+product_key=["productName","brandName","price"]
+final_prod_json_arr=[]
 def crawl_watsons():
+	prod_dict={}
 	res = requests.get('http://www.watsons.com.tw/%E7%86%B1%E9%8A%B7%E5%95%86%E5%93%81/c/bestSeller?q=:igcBestSeller:category:1041&page=5&resultsForPage=30&text=&sort=')
 	#print(res.text)
 	soup = BeautifulSoup(res.text)
-	prod=[] #productName
-	price=[] #price
-	brand=[] #brandName
+
+	counter=0
 	for i in soup.select('.productName'):
-		# print(i.text)
+		prod=[] #productName
 		prod.append(i.text)
+		prod.append(soup.select('.brandName')[counter].text)
+		prod.append(soup.select('.promoPrice')[counter].text.strip())#strip可以把前後不必要的空白去掉
+		counter+=1
+		prod_dict=dict(zip(product_key,prod))
+		final_prod_json_arr.append(prod_dict)
+
+	for i in final_prod_json_arr:
+		print(i)
 
 
-# with open('watsons.json','w',encoding='UTF-8') as f:
-# 	f.write('[')
-# 	for i in prod:
-# 		f.write("\""+i+"\""+',')
-# 	f.write(']')
+
 
 def start_json(json_path):
     with open(json_path, 'w' ,encoding = 'UTF-8') as json_file:
@@ -46,8 +51,8 @@ def end_json(json_path):
         json_file.write(']')
 
 if __name__  ==  "__main__":
-    start_json('watsons.json')
+    # start_json('watsons.json')
     crawl_watsons()
     #print(course_unit)
-    to_json('ptt_comment.json',course_unit,False)
-    end_json('ptt_comment.json')
+    # to_json('ptt_comment.json',course_unit,False)
+    # end_json('ptt_comment.json')
