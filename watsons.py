@@ -1,4 +1,4 @@
-import requests
+import requests, json
 from bs4 import BeautifulSoup
 product_key=["productName","brandName","price"]
 final_prod_json_arr=[]
@@ -18,8 +18,12 @@ def crawl_watsons():
 		prod_dict=dict(zip(product_key,prod))
 		final_prod_json_arr.append(prod_dict)
 
-	for i in final_prod_json_arr:
-		print(i)
+	with open('watsons.json','w',encoding='UTF-8') as f:
+		f.write('[')
+		for i in final_prod_json_arr:
+			s=json.dumps(i, ensure_ascii=False, sort_keys=True)
+			f.write(s+',')
+		f.write(']')
 
 
 
