@@ -20,9 +20,14 @@ def crawl_watsons():
 
 	with open('watsons.json','w',encoding='UTF-8') as f:
 		f.write('[')
+		first=True
 		for i in final_prod_json_arr:
 			s=json.dumps(i, ensure_ascii=False, sort_keys=True)
-			f.write(s+',')
+			if first==True :
+				f.write(s)
+				first=False
+			else :
+				f.write(','+s)
 		f.write(']')
 
 
