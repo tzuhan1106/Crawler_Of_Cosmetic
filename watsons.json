@@ -1,1 +1,182 @@
-[{"brandName": "touch in SOL", "price": "$275", "productName": "蜜糖保濕美肌底霜 32g"},{"brandName": "SOFINA 蘇菲娜", "price": "$350", "productName": "Primavista Ange漾緁 水潤瓷"},{"brandName": "Missha", "price": "$390", "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉紫色）M2883"},{"brandName": "Missha", "price": "$390", "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉綠色）M2882"},{"brandName": "1028", "price": "$269", "productName": "1028 超控油 透亮飾底乳 01粉"},{"brandName": "1028", "price": "$269", "productName": "1028 超控油 透亮飾底乳 02紫"},{"brandName": "1028", "price": "$538", "productName": "1028 超控油 透亮飾底乳 2入組"},{"brandName": "媚點", "price": "$230", "productName": "透顏防曬粧前乳"},{"brandName": "L'Oreal Paris 巴黎萊雅", "price": "$450", "productName": "妝魔法柔焦慕絲"},{"brandName": "SOFINA 蘇菲娜", "price": "$350", "productName": "控油瓷效妝前隔離乳"},{"brandName": "媚點", "price": "$230", "productName": "零瑕美肌粧前乳 (毛孔修飾)"},{"brandName": "CANMAKE", "price": "$415", "productName": "天使潤澤修飾乳159自然膚色"},{"brandName": "媚比琳 Maybelline", "price": "$280", "productName": "BABY粉紅美肌乳"},{"brandName": "SOFINA 蘇菲娜", "price": "$450", "productName": "透美顏日間保濕防護乳 I 清爽型"},{"brandName": "SOFINA 蘇菲娜", "price": "$450", "productName": "透美顏日間保濕防護乳 SPF50"},{"brandName": "媚點", "price": "$220", "productName": "UV防護粧前乳"},{"brandName": "CANMAKE", "price": "$199", "productName": "臉部修飾蜜粉霜821-01"},{"brandName": "L'Oreal Paris 巴黎萊雅", "price": "$330", "productName": "巴黎萊雅輕透光感珍珠光打亮妝前乳"},{"brandName": "NYX", "price": "$380", "productName": "NYX 超柔美棒棒蘋果肌 SB05"},{"brandName": "KOSE", "price": "$370", "productName": "高絲恆耀精淬 潤肌精 UV抗皺潤澤隔離乳"},{"brandName": "CEZANNE", "price": "$350", "productName": "CEZANNE 清爽持久飾底乳 756-01"},{"brandName": "CEZANNE", "price": "$350", "productName": "CEZANNE 清爽持久飾底乳 757-02"},{"brandName": "媚比琳 Maybelline", "price": "$320", "productName": "媚比琳 Baby毛孔隱形柔焦凝露"},{"brandName": "露華濃 Revlon", "price": "$416", "productName": "露華濃沒油毛孔歸零膏010透明"},{"brandName": "KOSE", "price": "$350", "productName": "UV美肌亮白隔離乳"},{"brandName": "KATE", "price": "$320", "productName": "凱婷 長效持久控油粧前乳"},{"brandName": "Missha", "price": "$360", "productName": "零毛孔控油美肌妝前乳 M2694"},{"brandName": "KATE 凱婷", "price": "$320", "productName": "進化美肌礦物飾底乳"},{"brandName": "KATE 凱婷", "price": "$300", "productName": "凱婷 毛孔控油飾底乳"},{"brandName": "SOFINA", "price": "$298", "productName": "SOFINA Primavista Ange漾緁水感光澤裸妝組"},{"brandName": "NYX", "price": "$745", "productName": "NYX 無瑕控油妝前修飾乳 SK01"},{"brandName": "NYX", "price": "$380", "productName": "NYX 超柔美棒棒蘋果肌 SB02"},{"brandName": "NYX", "price": "$380", "productName": "NYX 超柔美棒棒蘋果肌 SB04"},{"brandName": "NYX", "price": "$380", "productName": "NYX 超柔美棒棒蘋果肌 SB08"},{"brandName": "NYX", "price": "$745", "productName": "NYX 零毛孔絲滑細緻修飾乳 POF01"},{"brandName": "ALBION", "price": "$2,798", "productName": "ALBION 妃思雅明色妝前精華SPF35 30g"}]
+[
+  {
+    "brandName": "touch in SOL",
+    "price": "$275",
+    "productName": "蜜糖保濕美肌底霜 32g"
+  },
+  {
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$350",
+    "productName": "Primavista Ange漾緁 水潤瓷"
+  },
+  {
+    "brandName": "Missha",
+    "price": "$390",
+    "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉紫色）M2883"
+  },
+  {
+    "brandName": "Missha",
+    "price": "$390",
+    "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉綠色）M2882"
+  },
+  {
+    "brandName": "1028",
+    "price": "$269",
+    "productName": "1028 超控油 透亮飾底乳 01粉"
+  },
+  {
+    "brandName": "1028",
+    "price": "$269",
+    "productName": "1028 超控油 透亮飾底乳 02紫"
+  },
+  {
+    "brandName": "1028",
+    "price": "$538",
+    "productName": "1028 超控油 透亮飾底乳 2入組"
+  },
+  {
+    "brandName": "媚點",
+    "price": "$230",
+    "productName": "透顏防曬粧前乳"
+  },
+  {
+    "brandName": "L'Oreal Paris 巴黎萊雅",
+    "price": "$450",
+    "productName": "妝魔法柔焦慕絲"
+  },
+  {
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$350",
+    "productName": "控油瓷效妝前隔離乳"
+  },
+  {
+    "brandName": "媚點",
+    "price": "$230",
+    "productName": "零瑕美肌粧前乳 (毛孔修飾)"
+  },
+  {
+    "brandName": "CANMAKE",
+    "price": "$415",
+    "productName": "天使潤澤修飾乳159自然膚色"
+  },
+  {
+    "brandName": "媚比琳 Maybelline",
+    "price": "$280",
+    "productName": "BABY粉紅美肌乳"
+  },
+  {
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$450",
+    "productName": "透美顏日間保濕防護乳 I 清爽型"
+  },
+  {
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$450",
+    "productName": "透美顏日間保濕防護乳 SPF50"
+  },
+  {
+    "brandName": "媚點",
+    "price": "$220",
+    "productName": "UV防護粧前乳"
+  },
+  {
+    "brandName": "CANMAKE",
+    "price": "$199",
+    "productName": "臉部修飾蜜粉霜821-01"
+  },
+  {
+    "brandName": "L'Oreal Paris 巴黎萊雅",
+    "price": "$330",
+    "productName": "巴黎萊雅輕透光感珍珠光打亮妝前乳"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB05"
+  },
+  {
+    "brandName": "KOSE",
+    "price": "$370",
+    "productName": "高絲恆耀精淬 潤肌精 UV抗皺潤澤隔離乳"
+  },
+  {
+    "brandName": "CEZANNE",
+    "price": "$350",
+    "productName": "CEZANNE 清爽持久飾底乳 756-01"
+  },
+  {
+    "brandName": "CEZANNE",
+    "price": "$350",
+    "productName": "CEZANNE 清爽持久飾底乳 757-02"
+  },
+  {
+    "brandName": "媚比琳 Maybelline",
+    "price": "$320",
+    "productName": "媚比琳 Baby毛孔隱形柔焦凝露"
+  },
+  {
+    "brandName": "露華濃 Revlon",
+    "price": "$416",
+    "productName": "露華濃沒油毛孔歸零膏010透明"
+  },
+  {
+    "brandName": "KOSE",
+    "price": "$350",
+    "productName": "UV美肌亮白隔離乳"
+  },
+  {
+    "brandName": "KATE",
+    "price": "$320",
+    "productName": "凱婷 長效持久控油粧前乳"
+  },
+  {
+    "brandName": "Missha",
+    "price": "$360",
+    "productName": "零毛孔控油美肌妝前乳 M2694"
+  },
+  {
+    "brandName": "KATE 凱婷",
+    "price": "$320",
+    "productName": "進化美肌礦物飾底乳"
+  },
+  {
+    "brandName": "KATE 凱婷",
+    "price": "$300",
+    "productName": "凱婷 毛孔控油飾底乳"
+  },
+  {
+    "brandName": "SOFINA",
+    "price": "$298",
+    "productName": "SOFINA Primavista Ange漾緁水感光澤裸妝組"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$745",
+    "productName": "NYX 無瑕控油妝前修飾乳 SK01"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB02"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB04"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB08"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$745",
+    "productName": "NYX 零毛孔絲滑細緻修飾乳 POF01"
+  },
+  {
+    "brandName": "ALBION",
+    "price": "$2,798",
+    "productName": "ALBION 妃思雅明色妝前精華SPF35 30g"
+  }
+]
