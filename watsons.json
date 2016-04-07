@@ -1,98 +1,68 @@
 [
   {
-    "brandName": "AQUA LABEL 水之印",
-    "price": "$460",
-    "productName": "保濕潤膚乳液 (潤澤型)"
+    "brandName": "touch in SOL",
+    "price": "$275",
+    "productName": "蜜糖保濕美肌底霜 32g"
   },
   {
-    "brandName": "BURTSBEES",
+    "brandName": "SOFINA 蘇菲娜",
     "price": "$350",
-    "productName": "神奇紫草膏 15g"
+    "productName": "Primavista Ange漾緁 水潤瓷"
   },
   {
-    "brandName": "曼秀雷敦",
-    "price": "$110",
-    "productName": "LipIce潤唇膏-草莓"
+    "brandName": "Missha",
+    "price": "$390",
+    "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉紫色）M2883"
   },
   {
-    "brandName": "曼秀雷敦",
-    "price": "$120",
-    "productName": "藥用潤唇膏"
+    "brandName": "Missha",
+    "price": "$390",
+    "productName": "輕透裸光飾底隔離霜SPF30／PA++（粉綠色）M2882"
   },
   {
-    "brandName": "3MNEXCARE",
-    "price": "$99",
-    "productName": "淨顏吸油紙膜(70枚)"
+    "brandName": "1028",
+    "price": "$269",
+    "productName": "1028 超控油 透亮飾底乳 01粉"
   },
   {
-    "brandName": "蜜妮 Biore",
-    "price": "$70",
-    "productName": "頂級深層卸妝棉(攜帶包)10片"
+    "brandName": "1028",
+    "price": "$269",
+    "productName": "1028 超控油 透亮飾底乳 02紫"
   },
   {
-    "brandName": "CNC",
-    "price": "$102",
-    "productName": "深層去油洗面乳100G"
+    "brandName": "1028",
+    "price": "$538",
+    "productName": "1028 超控油 透亮飾底乳 2入組"
   },
   {
-    "brandName": "上山採藥",
-    "price": "$270",
-    "productName": "青柚籽去角質凝膠100g"
+    "brandName": "媚點",
+    "price": "$230",
+    "productName": "透顏防曬粧前乳"
   },
   {
-    "brandName": "自白肌",
-    "price": "$550",
-    "productName": "傳明酸鐳射美白精華40ml"
+    "brandName": "L'Oreal Paris 巴黎萊雅",
+    "price": "$450",
+    "productName": "妝魔法柔焦慕絲"
   },
   {
-    "brandName": "DR.WU",
-    "price": "$800",
-    "productName": "杏仁酸亮白煥膚精華 15ml"
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$350",
+    "productName": "控油瓷效妝前隔離乳"
   },
   {
-    "brandName": "蜜妮 Biore",
-    "price": "$265",
-    "productName": "深層卸粧精華露230ml"
+    "brandName": "媚點",
+    "price": "$230",
+    "productName": "零瑕美肌粧前乳 (毛孔修飾)"
   },
   {
-    "brandName": "蜜妮 Biore",
-    "price": "$309",
-    "productName": "含水防曬美白水凝霜33g"
+    "brandName": "CANMAKE",
+    "price": "$415",
+    "productName": "天使潤澤修飾乳159自然膚色"
   },
   {
-    "brandName": "碧歐斯",
-    "price": "$790",
-    "productName": "生物能量蝸牛原液修護精華"
-  },
-  {
-    "brandName": "屈臣氏",
-    "price": "$89",
-    "productName": "屈臣氏蜜粉吸油面紙(薰衣草香氛)3包入"
-  },
-  {
-    "brandName": "肌研",
-    "price": "$740",
-    "productName": "白潤美白美容液"
-  },
-  {
-    "brandName": "蜜妮 Biore",
-    "price": "$199",
-    "productName": "深層卸妝棉(本體)"
-  },
-  {
-    "brandName": "AQUA LABEL 水之印",
-    "price": "$320",
-    "productName": "水之印光感保濕隔離霜"
-  },
-  {
-    "brandName": "曼秀雷敦",
-    "price": "$120",
-    "productName": "水份潤唇膏-薄荷"
-  },
-  {
-    "brandName": "專科",
-    "price": "$249",
-    "productName": "美白專科化粧水(滋潤型)"
+    "brandName": "媚比琳 Maybelline",
+    "price": "$280",
+    "productName": "BABY粉紅美肌乳"
   },
   {
     "brandName": "SOFINA 蘇菲娜",
@@ -100,53 +70,113 @@
     "productName": "透美顏日間保濕防護乳 I 清爽型"
   },
   {
-    "brandName": "廣源良",
-    "price": "$249",
-    "productName": "柔蘆薈強效保濕活膚霜 80ml"
+    "brandName": "SOFINA 蘇菲娜",
+    "price": "$450",
+    "productName": "透美顏日間保濕防護乳 SPF50"
   },
   {
-    "brandName": "AMPM",
-    "price": "$699",
-    "productName": "三重玻尿酸保濕舒芙蕾 115g"
+    "brandName": "媚點",
+    "price": "$220",
+    "productName": "UV防護粧前乳"
   },
   {
-    "brandName": "廣源良",
-    "price": "$120",
-    "productName": "薏仁亮白晶透乳液 100ml"
+    "brandName": "CANMAKE",
+    "price": "$199",
+    "productName": "臉部修飾蜜粉霜821-01"
   },
   {
-    "brandName": "廣源良",
-    "price": "$259",
-    "productName": "菜瓜水噴霧式 320ml"
+    "brandName": "L'Oreal Paris 巴黎萊雅",
+    "price": "$330",
+    "productName": "巴黎萊雅輕透光感珍珠光打亮妝前乳"
   },
   {
-    "brandName": "廣源良",
-    "price": "$259",
-    "productName": "噴霧式保濕活膚水 320ml"
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB05"
   },
   {
-    "brandName": "廣源良",
-    "price": "$29",
-    "productName": "蘆薈精華面膜 單片"
+    "brandName": "KOSE",
+    "price": "$370",
+    "productName": "高絲恆耀精淬 潤肌精 UV抗皺潤澤隔離乳"
   },
   {
-    "brandName": "廣源良",
-    "price": "$29",
-    "productName": "小黃瓜優質面膜 單片"
+    "brandName": "CEZANNE",
+    "price": "$350",
+    "productName": "CEZANNE 清爽持久飾底乳 756-01"
   },
   {
-    "brandName": "DR.WU",
-    "price": "$720",
-    "productName": "B3淨痘舒緩潔顏露 150ML"
+    "brandName": "CEZANNE",
+    "price": "$350",
+    "productName": "CEZANNE 清爽持久飾底乳 757-02"
   },
   {
-    "brandName": "DR.WU",
-    "price": "$900",
-    "productName": "毛孔緊緻彈力精華 30ML"
+    "brandName": "媚比琳 Maybelline",
+    "price": "$320",
+    "productName": "媚比琳 Baby毛孔隱形柔焦凝露"
   },
   {
-    "brandName": "HIKARU",
-    "price": "$129",
-    "productName": "傳明酸美白化妝水 500ml"
+    "brandName": "露華濃 Revlon",
+    "price": "$416",
+    "productName": "露華濃沒油毛孔歸零膏010透明"
+  },
+  {
+    "brandName": "KOSE",
+    "price": "$350",
+    "productName": "UV美肌亮白隔離乳"
+  },
+  {
+    "brandName": "KATE",
+    "price": "$320",
+    "productName": "凱婷 長效持久控油粧前乳"
+  },
+  {
+    "brandName": "Missha",
+    "price": "$360",
+    "productName": "零毛孔控油美肌妝前乳 M2694"
+  },
+  {
+    "brandName": "KATE 凱婷",
+    "price": "$320",
+    "productName": "進化美肌礦物飾底乳"
+  },
+  {
+    "brandName": "KATE 凱婷",
+    "price": "$300",
+    "productName": "凱婷 毛孔控油飾底乳"
+  },
+  {
+    "brandName": "SOFINA",
+    "price": "$298",
+    "productName": "SOFINA Primavista Ange漾緁水感光澤裸妝組"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$745",
+    "productName": "NYX 無瑕控油妝前修飾乳 SK01"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB02"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB04"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$380",
+    "productName": "NYX 超柔美棒棒蘋果肌 SB08"
+  },
+  {
+    "brandName": "NYX",
+    "price": "$745",
+    "productName": "NYX 零毛孔絲滑細緻修飾乳 POF01"
+  },
+  {
+    "brandName": "ALBION",
+    "price": "$2,798",
+    "productName": "ALBION 妃思雅明色妝前精華SPF35 30g"
   }
 ]

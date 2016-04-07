@@ -4,7 +4,7 @@ product_key=["productName","brandName","price"]
 final_prod_json_arr=[]
 def crawl_watsons():
 	prod_dict={}
-	res = requests.get('http://www.watsons.com.tw/%E7%86%B1%E9%8A%B7%E5%95%86%E5%93%81/c/bestSeller?q=:igcBestSeller:category:1041&page=5&resultsForPage=30&text=&sort=')
+	res = requests.get('http://www.watsons.com.tw/%E5%85%A8%E9%83%A8%E5%95%86%E5%93%81/%E9%96%8B%E6%9E%B6%E5%BD%A9%E5%A6%9D/%E8%87%89%E9%83%A8%E5%BD%A9%E5%A6%9D/%E9%9A%94%E9%9B%A2%E9%9C%9C-%E9%A3%BE%E5%BA%95%E4%B9%B3/c/10440101?resultsForPage=60&minSel=199.0&maxSel=2798.0&minSlider=199.0&maxSlider=2798.0&q=%3AigcBestSeller&text=&sort=')
 	#print(res.text)
 	soup = BeautifulSoup(res.text)
 
@@ -20,9 +20,14 @@ def crawl_watsons():
 
 	with open('watsons.json','w',encoding='UTF-8') as f:
 		f.write('[')
+		first=True
 		for i in final_prod_json_arr:
 			s=json.dumps(i, ensure_ascii=False, sort_keys=True)
-			f.write(s+',')
+			if first==True :
+				f.write(s)
+				first=False
+			else :
+				f.write(','+s)
 		f.write(']')
 
 
